@@ -18,5 +18,6 @@ package() {
 
 	install -m644 "$srcdir"/init.vim etc/skel/.config/nvim/
 	install -m644 "$srcdir"/.zshrc etc/skel/
+	install -m644 "$srcdir"/.zprofile etc/skel/
 }
 
