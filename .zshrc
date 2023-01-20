@@ -29,6 +29,3 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # Use colors for ls
 alias ls="ls --color=auto"
-
-# Source zprofile
-source ~/.zprofile
