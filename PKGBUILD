@@ -1,6 +1,6 @@
 pkgname=skel-blend
 pkgver=2023.01.01
-pkgrel=1
+pkgrel=2
 pkgdesc='Skel configuration for blendOS'
 url='https://github.com/blend-os/skel-blend'
 arch=('any')
